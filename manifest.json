@@ -1,0 +1,22 @@
+{
+    "background_color": "#ffffff",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "thalie.vercel",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "thalie.vercel",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "/assets/icons/favicon.ico",
+        "type": "image/svg+xml"
+      },
+      {
+        "src": "/favicon.ico",
+        "type": "image/x-icon"
+      }
+    ],
+    "description": "Description"
+  } 
