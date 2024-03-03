@@ -33,6 +33,7 @@ module.exports = {
         'light-2': '#EFEFEF',
         'light-3': '#7878A3',
         'light-4': '#5C5C7B',
+        'light-5': '#E7E5FF'
       },
       screens: {
         'xs': '480px',
@@ -43,7 +44,7 @@ module.exports = {
         '465': '465px',
       },
       fontFamily: {
-        inter: ['Inter', 'sans-serif'],
+        inter: ['Montserrat', 'sans-serif'],
 
       },
       keyframes: {
