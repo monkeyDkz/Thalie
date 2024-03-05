@@ -1,7 +1,7 @@
 {
   "name": "Thalie",
   "short_name": "Thalie",
-  "start_url": "https://thalie.vercel.app",
+  "start_url": ".",
   "display": "fullscreen",
   "description": "A description for your application",
   "lang": " The default language of your application",
