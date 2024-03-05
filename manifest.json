@@ -1,6 +1,6 @@
 {
   "name": "Thalie",
-  "short_name": "This name will show in your Windows taskbar, in the start menu, and Android homescreen",
+  "short_name": "Thalie",
   "start_url": "The URL that should be loaded when your application is opened",
   "display": "fullscreen",
   "description": "A description for your application",
