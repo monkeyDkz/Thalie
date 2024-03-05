@@ -11,20 +11,25 @@
   "orientation": "any",
   "icons": [
     {
-      "src": "https://thalie.vercel.app/assets/icons/Thalie_v1.png",
+      "src": "https://thalie.vercel.app/assets/icons/Iconapp.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "https://thalie.vercel.app/assets/icons/Thalie_v1.png",
+      "src": "https://thalie.vercel.app/assets/icons/Iconapp.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "https://thalie.vercel.app/assets/icons/Thalie_v1.png",
+      "src": "https://thalie.vercel.app/assets/icons/Iconapp.png",
       "type": "image/png",
       "sizes": "192x192"
-    }
+    },
+    {
+        "src": "https://thalie.vercel.app/assets/icons/Iconapp.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      }
   ],
   "screenshots": [
     {
