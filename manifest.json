@@ -11,13 +11,13 @@
   "orientation": "any",
   "icons": [
     {
-      "src": "public/assets/icons/Thalie_v1.png",
+      "src": "Thalie_v1.png",
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/public/assets/icons/Thalie_v1.png",
+      "src": "Thalie_v1.png",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "maskable"
