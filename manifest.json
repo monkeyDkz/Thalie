@@ -29,7 +29,12 @@
         "src": "https://thalie.vercel.app/assets/icons/Iconapp.png",
         "type": "image/png",
         "sizes": "256x256"
-      }
+    },
+    {
+        "src": "https://thalie.vercel.app/assets/icons/Iconapp.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    }
   ],
   "screenshots": [
     {
