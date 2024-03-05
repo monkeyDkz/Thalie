@@ -12,23 +12,18 @@
   "icons": [
     {
       "src": "public/assets/icons/Thalie_v1.png",
-      "sizes": "72x72",
-      "type": "image/png"
+      "type": "image/png",
+      "sizes": "48x48"
     },
     {
       "src": "public/assets/icons/Thalie_v1.png",
-      "sizes": "96x96",
-      "type": "image/png"
+      "type": "image/png",
+      "sizes": "96x96"
     },
     {
       "src": "public/assets/icons/Thalie_v1.png",
-      "sizes": "128x128",
-      "type": "image/png"
-    },
-    {
-      "src": "public/assets/icons/Thalie_v1.png",
-      "sizes": "144x144",
-      "type": "image/png"
+      "type": "image/png",
+      "sizes": "192x192"
     }
   ],
   "screenshots": [
