@@ -29,7 +29,7 @@
       "purpose": "any"
     },
     {
-      "src": "/public/assets/icons/Thalie_v1.png",
+      "src": "public/assets/icons/Thalie_v1.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "maskable"
