@@ -1,7 +1,7 @@
 {
   "name": "Thalie",
   "short_name": "Thalie",
-  "start_url": "The URL that should be loaded when your application is opened",
+  "start_url": "https://thalie.vercel.app",
   "display": "fullscreen",
   "description": "A description for your application",
   "lang": " The default language of your application",
@@ -11,26 +11,26 @@
   "orientation": "any",
   "icons": [
     {
-      "src": "manifest-icon-192.maskable.png",
-      "sizes": "192x192",
+      "src": "/manifest-icon-192.maskable.png",
+      "sizes": "72x72",
       "type": "image/png",
       "purpose": "any"
     },
     {
       "src": "manifest-icon-192.maskable.png",
-      "sizes": "192x192",
+      "sizes": "96x96",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
       "src": "manifest-icon-512.maskable.png",
-      "sizes": "512x512",
+      "sizes": "128x128",
       "type": "image/png",
       "purpose": "any"
     },
     {
       "src": "manifest-icon-512.maskable.png",
-      "sizes": "512x512",
+      "sizes": "144x144",
       "type": "image/png",
       "purpose": "maskable"
     }
