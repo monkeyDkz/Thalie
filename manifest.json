@@ -49,6 +49,14 @@
     }
   ],
   "prefer_related_applications": false,
+  "id": "?homescreen=1",
+  "categories": ["media", "social", "design","art"],
+  "launch_handler": {
+    "client_mode": ["focus-existing", "auto"]
+  },
+  "launch_handler": {
+    "client_mode": "focus-existing"
+},
   "shortcuts": [
     {
       "name": "The name you would like to be displayed for your shortcut",
